@@ -1,7 +1,6 @@
-# **BenjaminHungLe.github.io**
-Benjamin - Data Analyst Portfolio
+# **BENJAMIN - DATA ANALYST PORTFOLIO**
 
-# **SUMMARY**
+# **Summary**
 Experienced **Data Analyst**, skilled in **business performance analysis** and **dashboard reporting**. Strong technical in **Power BI, Tableau, SQL, Python, Excel**. Proficient in diverse data source extraction & processing, ETL, statistical analysis, business insights, KPI dashboard, project management
 
 # Data Analysis
