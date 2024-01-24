@@ -1,5 +1,4 @@
 # **BENJAMIN - DATA ANALYST PORTFOLIO**
-### Email: benjamin.hungle@gmail.com || Phone: 437-249-1624 || Toronto, ON, Canada, M6E 3N9
 
 Hello! I'm an experienced **Data Analyst** who has a passion on **decoding business performance mysteries**. I equip myself a strong technical toolkit including **Power BI, Tableau, SQL, Python, Excel**, allowing me **handling diverse data sources, conducting ETL processes, performing statistical analyses, crafting KPI dashboards with comprehensive performance metrics, and delivering actionable business insights**. I look forward to contributing my expertise in data technical skills and **project management** to the success of your business!
 
